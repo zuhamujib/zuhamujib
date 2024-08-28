@@ -1,5 +1,5 @@
 ## Hi there, I am Zuha 👋
-I am a 2nd year Electrical Engineering student. I enjoy building innovative solutions to real-world problems and constantly learning new technologies.
+I am a 3rd year Electrical Engineering student. I enjoy building innovative solutions to real-world problems and constantly learning new technologies.
 <!--
 **zuhamujib/zuhamujib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
